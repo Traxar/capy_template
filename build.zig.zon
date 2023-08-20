@@ -1,0 +1,8 @@
+.{
+    .name = "project_name",
+    .version = "0.0.0",
+    .dependencies = .{ .capy = .{
+        .url = "https://github.com/Traxar/capy/archive/refs/heads/master.tar.gz",
+        .hash = "12201bdc8426a4b33f4b425dcda9096ca8b5ee05f87f812d2f9729eac2691d6f0e2d",
+    } },
+}
